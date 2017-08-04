@@ -1,2 +1,2 @@
-# warehouse-simulator
-A industrial warehouse simulator for simulation.
+# warehouse-io-simulator
+A industrial warehouse input/output signal simulator for simulation.
